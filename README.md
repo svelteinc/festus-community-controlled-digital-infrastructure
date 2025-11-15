@@ -33,3 +33,12 @@ You are free to copy, modify, and reuse this structure for your own city. Replac
 ## Documentation
 
 See `docs/README.md` for project-specific narrative and design documents.
+
+
+## Community Standards & Security
+
+This project follows a Contributor Code of Conduct. By participating, you agree
+to uphold it (see `CODE_OF_CONDUCT.md`). For security issues, please do not open
+a public GitHub issue; instead, email `gf@svelteinc.co` as described in
+`SECURITY.md`. This helps us respond responsibly while keeping the project
+public-good and safe for everyone.

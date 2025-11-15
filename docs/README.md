@@ -30,3 +30,11 @@ This documentation is written for Festus, but other cities can reuse it by:
 ## Documentation License
 
 The documentation in `docs/` is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You are free to share and adapt these materials, provided you give appropriate credit and indicate if changes were made.
+
+
+## Community Standards & Security
+
+Contributions to this documentation and the associated code are governed by the
+project Code of Conduct (`CODE_OF_CONDUCT.md`). Security issues should be
+reported privately as described in `SECURITY.md` rather than opened as public
+issues.
