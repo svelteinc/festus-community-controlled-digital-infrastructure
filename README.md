@@ -35,6 +35,23 @@ You are free to copy, modify, and reuse this structure for your own city. Replac
 See `docs/README.md` for project-specific narrative and design documents.
 
 
+## Quick Start for Cities
+
+If you want to "see the numbers" quickly:
+
+1. Clone this repository.
+2. Run the baseline Phase 1 scenario from your shell:
+   - `python3 scripts/run_capital_stack_scenario.py`
+3. For notebook-based exploration, open
+   `docs/capital_stack/phase1_capital_stack_example_v1.md` and copy the example
+   cells into a Jupyter notebook. Adjust capacity (MW), debt ratio, interest
+   rate, and community fee assumptions to see how DSCR and community revenues
+   move.
+
+These helpers are conceptual and for discussion only; they are not a full
+project finance model or investment advice.
+
+
 ## Community Standards & Security
 
 This project follows a Contributor Code of Conduct. By participating, you agree
