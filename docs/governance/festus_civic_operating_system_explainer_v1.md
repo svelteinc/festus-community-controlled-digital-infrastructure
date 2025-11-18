@@ -107,6 +107,6 @@ For details, see:
 Any real implementation would need:
 
 - Formal charter/bylaws drafted with local counsel.
-- Ordinances defining the scope of FCA votes and Council’s override rules.
+- Ordinances defining the scope of FCA votes and Council's override rules.
 - Technical work to implement a secure, accessible voting and identity system.
 

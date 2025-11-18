@@ -10,7 +10,7 @@ In many places, big data center deals work like this:
 
 - **Heavy tax abatements** (e.g., Chapter 100) reduce real and personal property taxes by 90–100% for 15–20 years.
 - **State data center incentives** wipe out sales tax on construction materials and equipment.
-- The company may advertise a large "gross" tax number over decades, but **the city’s actual annual take can be much smaller**.
+- The company may advertise a large "gross" tax number over decades, but **the city's actual annual take can be much smaller**.
 - The project can put **strain on power and water**, with residents worried about higher rates.
 - Promised permanent jobs can shrink from "hundreds" to a few dozen.
 
@@ -30,7 +30,7 @@ Our framework (FDIA/FCIC) aims to:
 
 - Put land and covenants in a **community‑controlled entity**.
 - Use **ground rent and per‑MW fees** as a transparent community revenue stream.
-- Keep project debt **off the city’s general balance sheet**.
+- Keep project debt **off the city's general balance sheet**.
 
 Example, purely for illustration (round numbers):
 

@@ -143,7 +143,7 @@ In practice, big levers are pre-committed to public votes, and elected officials
 
 ---
 
-## 6. Resident’s-Eye View
+## 6. Resident's-Eye View
 
 For a typical Festus resident, the goal is that this feels simple:
 
@@ -152,7 +152,7 @@ For a typical Festus resident, the goal is that this feels simple:
   - big builds,
   - chunks of the budget,
   - and whether large private projects expand or not.”
-- “Council and Mayor can’t quietly push through major deals; if they override a citizen vote, it takes a supermajority and a written explanation.”
+- “Council and Mayor can't quietly push through major deals; if they override a citizen vote, it takes a supermajority and a written explanation.”
 
 This document is a **conceptual roadmap**, not a legal instrument. Any real implementation would require detailed legal drafting, public process, and formal adoption by Festus.
 

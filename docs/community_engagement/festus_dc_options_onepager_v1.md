@@ -98,5 +98,5 @@ A realistic approach does not have to pick one option forever. For example:
 4. **Allow only edge/micro sites elsewhere in town.**  
    Limit them to substations and industrial corridors, with strict standards for noise, water, and appearance.
 
-The point is not to chase “data centers at any cost,” but to match **connectivity and economic benefits** to Festus’ size, risk tolerance, and community values.
+The point is not to chase "data centers at any cost," but to match **connectivity and economic benefits** to Festus' size, risk tolerance, and community values.
 

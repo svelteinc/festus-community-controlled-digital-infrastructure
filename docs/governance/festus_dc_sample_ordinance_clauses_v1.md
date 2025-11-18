@@ -50,7 +50,7 @@ No Data Center, Hyperscale shall be permitted in any zoning district within the 
 (B) **Micro/Modular Data Centers.**  
 Subject to the capacity limits and performance standards of this Article:
 
-1. Data Center, Micro/Modular shall be allowed only as a conditional use in designated Light Industrial and General Industrial districts, as set forth in the City’s use tables.
+1. Data Center, Micro/Modular shall be allowed only as a conditional use in designated Light Industrial and General Industrial districts, as set forth in the City's use tables.
 2. Data Center, Micro/Modular shall be prohibited in all Residential districts, Neighborhood Commercial districts, and other sensitive districts as determined by ordinance.
 
 (C) **Edge Compute Facilities.**  

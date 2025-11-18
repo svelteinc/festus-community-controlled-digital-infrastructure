@@ -4,7 +4,7 @@
 - A private operator pays to build and run the facility.
 - The city, through FDIA/FCIC, keeps control of the land and key rules.
 - The community receives predictable revenue (ground rent + small usage fees).
-- The project, not the city’s general budget, is designed to bear the financial risk.
+- The project, not the city's general budget, is designed to bear the financial risk.
 
 > **Important:** This is a conceptual example for discussion only and is not legal, tax, or investment advice. Any actual financing must be reviewed and implemented with qualified legal and financial advisors.
 
@@ -38,7 +38,7 @@ For an initial development phase (e.g., a first facility in the $X0–$X00M rang
   - Equity returns driven by operating cash flow after debt service and fees.
 
 - **Community Revenue Streams**
-  - **Ground rent**: fixed or indexed 5/MW/year to FDIA/FCIC.
+  - **Ground rent**: fixed or indexed per-MW annual rent paid to FDIA/FCIC.
   - **Per-MW or revenue-based fee**: small variable component to align upside.
   - These revenues can later support:
     - Plain-vanilla community bonds.

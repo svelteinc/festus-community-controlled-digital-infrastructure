@@ -38,10 +38,10 @@ Details would be finalized with technical studies and written into binding coven
 
 ## 4. Does this raise taxes or put the city budget at risk?
 
-The intent is **not** to put the citys general fund at risk.
+The intent is **not** to put the city's general fund at risk.
 
 - The private operator is expected to finance construction and operations.
-- Any debt would be secured by the project, not the citys general credit.
+- Any debt would be secured by the project, not the city's general credit.
 - The city (through FDIA/FCIC) would collect ground rent and small usage-based fees.
 
 Exact terms would be negotiated and reviewed with legal and financial advisors, but the framework is designed so that **the project bears the risk, not the everyday budget for city services**.
@@ -54,7 +54,7 @@ That is often how conventional deals are structured elsewhere, and it is a valid
 
 - Many projects use tools like Chapter 100 to abate most real and personal property taxes for years.
 - State data center incentives can eliminate sales tax on construction materials and equipment.
-- The headline numbers can sound very large, but the citys **actual annual cash** after abatements can be much smaller.
+- The headline numbers can sound very large, but the city's **actual annual cash** after abatements can be much smaller.
 
 Our framework is designed so that the community is not relying only on conventional abatements and optimistic projections. Instead, FDIA/FCIC can negotiate **clear, contract-based community revenue** (ground rent and small per-MW fees) that is easier to understand and monitor. Exact numbers would still be determined in any real negotiation, but the goal is **transparent, enforceable community revenue**, not mystery math.
 
@@ -174,7 +174,7 @@ This pairs well with the FCIIA + Festus Civic Assembly model.
 
 - Hardened “edge” containers or small buildings:
   - At substations, along major corridors, near industrial loads.
-- Used for caching, local AI inference, industrial control—not hyperscale training.
+- Used for caching, local AI inference, and industrial control, not hyperscale training.
 - Smaller footprint and lower visual/political impact.
 
 ### 4. Compute inside other industrial / mixed-use projects
@@ -215,4 +215,4 @@ A realistic, cautious roadmap could look like:
 3. **Heavy use of regional data centers / cloud** via fiber, plus exploration of a regional, jointly governed “utility data center” outside the most sensitive areas.
 4. **Allow only edge / micro sites elsewhere in town** (substations, industrial corridors), with tight standards.
 
-The goal is not “data centers at any cost,” but getting the **connectivity and economic benefits** in forms that fit Festus’ size, risk tolerance, and community priorities.
+The goal is not “data centers at any cost,” but getting the **connectivity and economic benefits** in forms that fit Festus' size, risk tolerance, and community priorities.
