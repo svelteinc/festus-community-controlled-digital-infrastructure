@@ -216,3 +216,11 @@ A realistic, cautious roadmap could look like:
 4. **Allow only edge / micro sites elsewhere in town** (substations, industrial corridors), with tight standards.
 
 The goal is not “data centers at any cost,” but getting the **connectivity and economic benefits** in forms that fit Festus' size, risk tolerance, and community priorities.
+
+
+## 14. Is the bitcoin mining facility by the Armory off Highway P part of this project?
+No. The facility near the Armory off Highway P in Hematite is a separate private bitcoin mining project led by NYDIG and Global Connect Communications under Jefferson County's permitting process.
+It sits next to an Ameren substation and is still waiting on a final occupancy permit and a permanent access easement from the Missouri National Guard Armory at 2740 Highway P.
+
+Our Festus concept is a different, general data center idea on roughly 240 acres north of Highway 67 and west of Highway CC near I-55, which is being explored by CRG, Clayco's data center development arm.
+That concept would need to follow Festus rules on noise limits, neighbor notification, and community meetings, and the civic model in this playbook is designed so that large projects are structured through public-purpose entities with clear guardrails and resident oversight, not pushed quietly as a private bitcoin mine.
