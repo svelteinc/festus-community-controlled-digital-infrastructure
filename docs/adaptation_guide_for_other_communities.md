@@ -16,7 +16,7 @@ It is **not legal, tax, or investment advice**. Any real project must be designe
 
 ## 2. Governance Parameters to Tune
 
-Use `docs/governance/FDIA_FCIC_governance_v1.md` as a template, but adjust:
+Use `docs/governance/FDIA_FCIC_governance_v1.md` as a project-level template, and (optionally) `docs/governance/festus_citywide_civic_authority_and_assembly_v1.md` as an example of how a city-wide civic authority and resident assembly could work. Adjust:
 
 - **Board size and composition**
   - Number of seats.
@@ -83,3 +83,19 @@ Before moving beyond discussion:
 
 If you publish your adapted version, consider keeping a similar public-good licensing approach so other communities can benefit as well.
 
+
+
+## 7. Land Use & Zoning Considerations
+
+Many communities will also need to tune **where and how** data centers and edge sites are allowed.
+
+As a starting point, see `docs/governance/festus_dc_zoning_model_v1.md` for a conceptual zoning model that:
+
+- Prohibits hyperscale data centers in city limits by default.
+- Allows micro/modular and edge sites in appropriate industrial/utility districts with tight performance standards.
+- Ties larger compute uses to resident approval via a civic assembly when they cross defined thresholds.
+
+Your local counsel and planning staff should translate those ideas into your own zoning districts and comprehensive plan.
+
+
+For examples of how these concepts translate into legal-style drafting, see also `docs/governance/festus_dc_sample_ordinance_clauses_v1.md`.

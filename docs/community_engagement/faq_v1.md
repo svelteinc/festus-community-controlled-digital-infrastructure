@@ -48,7 +48,35 @@ Exact terms would be negotiated and reviewed with legal and financial advisors, 
 
 ---
 
-## 5. Who is in charge?
+## 5. Dont data centers just get huge tax breaks and pay nothing?
+
+That is often how conventional deals are structured elsewhere, and it is a valid concern.
+
+- Many projects use tools like Chapter 100 to abate most real and personal property taxes for years.
+- State data center incentives can eliminate sales tax on construction materials and equipment.
+- The headline numbers can sound very large, but the citys **actual annual cash** after abatements can be much smaller.
+
+Our framework is designed so that the community is not relying only on conventional abatements and optimistic projections. Instead, FDIA/FCIC can negotiate **clear, contract-based community revenue** (ground rent and small per-MW fees) that is easier to understand and monitor. Exact numbers would still be determined in any real negotiation, but the goal is **transparent, enforceable community revenue**, not mystery math.
+
+---
+
+## 6. Will this make our utility bills go up?
+
+Higher power and water demand without protections could put pressure on local systems and rates. That is why any real project should answer utility questions **up front and in writing**:
+
+- How much power (MW) will the facility draw at full build-out?
+- What grid and substation upgrades are needed, and who pays for them?
+- Are there protections so that residential customers are not left holding the bag?
+
+Under the FDIA/FCIC concept, the community can:
+
+- Require transparent studies of power and water impacts.
+- Consider special fees or contributions from the project to offset grid and infrastructure costs.
+- Build protections into contracts so that **residential ratepayers are not the shock absorbers** for a private facility.
+
+---
+
+## 7. Who is in charge?
 
 A proposed public entity called **FDIA/FCIC** would:
 
@@ -62,7 +90,7 @@ City Council would still control zoning, permits, and any tools like TIF or tax 
 
 ---
 
-## 6. How does the community benefit financially?
+## 8. How does the community benefit financially?
 
 The community benefits through:
 
@@ -73,7 +101,7 @@ Over time, some of these revenues could support **plain-vanilla community bonds*
 
 ---
 
-## 7. Is this a crypto or token scheme?
+## 9. Is this a crypto or token scheme?
 
 No. The core proposal is based on **conventional, boring finance** and public-private partnership tools.
 
@@ -87,7 +115,7 @@ If tokenization ever happens, it would be **clearly explained, opt-in, and secon
 
 ---
 
-## 8. How can residents influence this?
+## 10. How can residents influence this?
 
 Residents can:
 
@@ -100,7 +128,91 @@ The whole point of sharing this framework early is to **invite critique and idea
 
 ---
 
-## 9. Where can I read more?
+## 11. Where can I read more?
 
 Detailed documents on governance, capital structure, and community engagement are available in the public repository for this project. They are written in plain English where possible, with summaries and disclaimers to clarify what is draft and what would need formal legal/financial work.
 
+
+
+## 12. Could this model expand beyond one data center project?
+
+Yes. The FDIA/FCIC structure described here is **project-level**, focused on a specific campus or facility. The same ideas can be extended to a **city-wide civic authority and resident assembly** that help manage multiple big projects over time.
+
+In this repo, `docs/governance/festus_citywide_civic_authority_and_assembly_v1.md` sketches one example: a Festus Civic Infrastructure & Innovation Authority (FCIIA) and Festus Civic Assembly (FCA). That concept shows how residents could get a binding say on major capital projects, public–private deals, and participatory budget pools across the whole city, not just one data center.
+
+Whether Festus or any other community chooses to go that far is a political decision. The important part is that **residents see the options clearly and decide in public**.
+
+
+## 13. Are there practical alternatives to hosting a hyperscale data center in Festus?
+
+Yes. There are several **very** realistic, boringly practical alternatives that can give Festus better connectivity and some local benefits without dropping a 50–100 MW hyperscale box in town.
+
+### 1. “Somewhere else” + fiber (remote cloud / regional data centers)
+
+- Festus does not host the big box at all.
+- The focus is on:
+  - High-quality fiber links and carrier connections in the region (e.g., St. Louis).
+  - Great last-mile connectivity for residents and businesses.
+- Compute lives in regional hubs; Festus gets:
+  - Better connectivity for homes and businesses.
+  - None of the local noise/water/land-use impacts of a hyperscale campus.
+
+**Tradeoff:** Festus may lose some direct DC tax base, but can still attract tech/advanced manufacturing that mainly needs bandwidth.
+
+### 2. Small, modular, community-scale data centers (1–5 MW)
+
+- Micro/modular data centers instead of a single 50–100 MW hyperscale site.
+- Features:
+  - Fit in light-industrial envelopes.
+  - Can use air-cooled or low-water designs.
+  - Can be capped by ordinance (e.g., “max X MW in city limits without an FCA vote”).
+- You can site 1–3 small projects in suitable zones instead of a single mega-facility.
+
+This pairs well with the FCIIA + Festus Civic Assembly model.
+
+### 3. Edge / telco-style sites instead of a campus
+
+- Hardened “edge” containers or small buildings:
+  - At substations, along major corridors, near industrial loads.
+- Used for caching, local AI inference, industrial control—not hyperscale training.
+- Smaller footprint and lower visual/political impact.
+
+### 4. Compute inside other industrial / mixed-use projects
+
+- Instead of a dedicated data center park, embed high-density compute into:
+  - An advanced manufacturing campus.
+  - A research/innovation hub.
+- Utilities, security, and parking are shared with the broader project.
+- You can negotiate strict caps and heat/waste reuse as part of the overall deal.
+
+### 5. Regional “utility data center” co-owned by multiple cities
+
+- Not just “some private hyperscaler.”
+- A regional authority (county/utility/FCIIA-style joint venture) sites a campus:
+  - Near a major substation or transmission node.
+  - Outside the most sensitive residential areas.
+- Festus participates as:
+  - Minority owner / landlord.
+  - Power off-taker.
+  - Revenue-sharing partner.
+
+### 6. Workload-shaping and efficiency instead of more boxes
+
+This does not replace new capacity entirely, but it **reduces** pressure for huge local buildouts:
+
+- Night-time / off-peak scheduling of heavy jobs.
+- More efficient chips and cooling.
+- Sharing capacity regionally instead of each city wanting its own monster.
+
+### A practical path for Festus
+
+A realistic, cautious roadmap could look like:
+
+1. **No hyperscale in city limits (for now).**
+   Codify caps by MW and by site size.
+2. **One small, “good neighbor” modular data center** under FCIIA + Civic Assembly rules.
+   Use it as your pilot and trust-builder.
+3. **Heavy use of regional data centers / cloud** via fiber, plus exploration of a regional, jointly governed “utility data center” outside the most sensitive areas.
+4. **Allow only edge / micro sites elsewhere in town** (substations, industrial corridors), with tight standards.
+
+The goal is not “data centers at any cost,” but getting the **connectivity and economic benefits** in forms that fit Festus’ size, risk tolerance, and community priorities.

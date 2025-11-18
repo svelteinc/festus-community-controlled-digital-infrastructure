@@ -6,6 +6,7 @@ This repository contains a practical, reusable playbook for structuring a commun
 
 - A governance model (FDIA/FCIC) that keeps land and covenants in local hands.
 - A conservative Phase 1 capital stack that uses private debt/equity while protecting the city’s budget.
+- A city-wide civic authority and resident assembly concept (FCIIA/FCA) that extends this model beyond a single project.
 - Optional Phase 2 tokenization concepts for community bonds.
 - Public-facing materials (vision, council briefing, Facebook explainer, FAQ) that other communities can adapt.
 - Code is licensed under MIT, documentation under CC BY 4.0, so any city can clone, adapt, and improve this model.

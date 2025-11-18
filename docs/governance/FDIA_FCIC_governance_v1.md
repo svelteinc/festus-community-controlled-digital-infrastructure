@@ -97,3 +97,10 @@ Each committee should include at least one citizen representative and report bac
 - Align specific seat appointment processes with Missouri law and Festus ordinances.
 - Ensure consistency with the eventual capital stack and operator RFP requirements.
 
+
+
+## 9. City-wide evolution (optional)
+
+For communities that want to extend this model beyond a single data-center or campus project, see `docs/governance/festus_citywide_civic_authority_and_assembly_v1.md` for an example of a city-wide Festus Civic Infrastructure & Innovation Authority (FCIIA) and Festus Civic Assembly (FCA).
+
+That concept note shows how a project-specific authority like FDIA/FCIC can evolve into a broader civic authority and resident assembly that manage multiple PPPs, participatory budgeting pools, and long-term planning decisions.
