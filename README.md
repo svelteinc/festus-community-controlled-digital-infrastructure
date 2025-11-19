@@ -35,6 +35,34 @@ You are free to copy, modify, and reuse this structure for your own city. Replac
 
 See `docs/README.md` for project-specific narrative and design documents.
 
+## Who you are / where to start
+
+- **City leaders / EDC staff:**
+  - `docs/vision/project_vision_v1.md`
+  - `docs/vision/festus_council_briefing_v1.md`
+  - `docs/vision/festus_desoto_corridor_strategy_v1.md`
+
+- **Residents / civic volunteers:**
+  - `docs/community_engagement/faq_v1.md`
+  - `docs/community_engagement/festus_facebook_explainer_v1.md`
+  - `docs/community_engagement/festus_dc_options_onepager_v1.md`
+  - `docs/community_engagement/data_center_numbers_onepager_v1.md`
+
+- **Lawyers / finance / advisors:**
+  - `docs/governance/FDIA_FCIC_governance_v1.md`
+  - `docs/governance/festus_dc_zoning_model_v1.md`
+  - `docs/governance/festus_dc_sample_ordinance_clauses_v1.md`
+  - `docs/capital_stack/phase1_capital_stack_v1.md`
+  - `docs/rfp/operator_rfp_skeleton_v1.md`
+  - `docs/tokenization/tokenized_community_bonds_v1.md`
+
+- **Developers / analysts:**
+  - `src/README.md`
+  - `tests/README.md`
+  - `scripts/run_capital_stack_scenario.py`
+  - `src/simulator/capital_stack.py`
+  - `src/simulator/sensitivity.py`
+
 
 ## Quick Start for Cities
 

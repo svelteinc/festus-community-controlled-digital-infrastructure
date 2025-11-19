@@ -219,7 +219,7 @@ The goal is not “data centers at any cost,” but getting the **connectivity a
 
 
 ## 14. Is the bitcoin mining facility by the Armory off Highway P part of this project?
-No. The facility near the Armory off Highway P in Hematite is a separate private bitcoin mining project led by NYDIG and Global Connect Communications under Jefferson County's permitting process.
+No. The facility near the Armory off Highway P in Hematite, just south of Festus and Crystal City along the I-55 small-city corridor, is a separate private bitcoin mining project led by NYDIG and Global Connect Communications under Jefferson County's permitting process.
 It sits next to an Ameren substation and is still waiting on a final occupancy permit and a permanent access easement from the Missouri National Guard Armory at 2740 Highway P.
 
 Our Festus concept is a different, general data center idea on roughly 240 acres north of Highway 67 and west of Highway CC near I-55, which is being explored by CRG, Clayco's data center development arm.

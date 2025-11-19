@@ -16,6 +16,7 @@ Each subdirectory should contain focused markdown documents instead of large mon
 
 - **If you are in Festus:** start with `vision/project_vision_v1.md` and `vision/festus_council_briefing_v1.md` to align on goals, then review `governance/FDIA_FCIC_governance_v1.md` and `capital_stack/phase1_capital_stack_v1.md` before sharing the FAQ and Facebook explainer from `community_engagement/`. If you want to see how this can evolve into a city-wide Civic Authority & Assembly, also read `governance/festus_citywide_civic_authority_and_assembly_v1.md`.
 - **If you are another community:** read `docs/adaptation_guide_for_other_communities.md` first, then copy this structure and swap in your own authority names, governance parameters, and financing assumptions.
+- **If you are a resident or civic volunteer:** start with `community_engagement/faq_v1.md`, `community_engagement/festus_facebook_explainer_v1.md`, `community_engagement/festus_dc_options_onepager_v1.md`, and, for regional context, `vision/festus_desoto_corridor_strategy_v1.md`.
 - **If you are a developer or analyst:** use `docs/` to understand the political/financial intent, then look at `src/` and `tests/` for code and models that implement or stress-test these designs.
 - **For quick numeric intuition:** see `capital_stack/phase1_capital_stack_example_v1.md` and the CLI helper in `scripts/run_capital_stack_scenario.py`. For more advanced sweeps, check `src/simulator/sensitivity.py` for simple DSCR and leverage sensitivity helpers.
 

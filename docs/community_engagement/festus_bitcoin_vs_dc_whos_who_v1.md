@@ -26,3 +26,5 @@ The 240 acres have been annexed into Festus for possible data center development
 Residents see the physical bitcoin facility near the Armory today, but that site is separate from the Festus data center concept described in this playbook.
 The goal of the civic model here is to give Festus and other communities tools to structure any large digital infrastructure project under public-purpose entities, clear financial risk boundaries, and real resident oversight, instead of relying on one-off, opaque deals.
 
+Both sites also sit within a broader small-city corridor that includes Herculaneum, Pevely, Festus, Crystal City, Hematite, De Soto, Olympian Village and nearby towns along I-55 and US-67. A separate corridor strategy note describes how that wider region can pursue advanced manufacturing and carefully governed digital infrastructure instead of one-off, opaque deals.
+
