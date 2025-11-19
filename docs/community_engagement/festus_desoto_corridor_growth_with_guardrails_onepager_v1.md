@@ -19,7 +19,7 @@
 - A **240‑acre site by I‑55, north of 67 and west of CC near Festus** has been marketed as a possible **data center campus**.
 - **Timber Creek Resort / Holiday Inn Club Vacations (De Soto)** is being **auctioned Dec. 1**, so its long‑term future is uncertain.
 
-All of these sit in the same corridor. The question is: **do we grow on our terms, or on someone elses?**
+All of these sit in the same corridor. The question is: **do we grow on our terms, or on someone else's?**
 
 ## 3. The idea: "Growth with Guardrails"
 
