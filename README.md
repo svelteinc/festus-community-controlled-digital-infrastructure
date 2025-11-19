@@ -37,7 +37,8 @@ See `docs/README.md` for project-specific narrative and design documents.
 
 ## Who you are / where to start
 
-- **City leaders / EDC staff:**
+- **City leaders / City Manager / EDC staff:**
+  - `docs/vision/festus_city_manager_implementation_roadmap_v1.md`
   - `docs/vision/project_vision_v1.md`
   - `docs/vision/festus_council_briefing_v1.md`
   - `docs/vision/festus_desoto_corridor_strategy_v1.md`
