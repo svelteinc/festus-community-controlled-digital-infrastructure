@@ -1,8 +1,8 @@
-# Festus + De Soto Corridor – Growth with Guardrails (One-Page Handout, Draft v1)
+# Festus Area Corridor – Growth with Guardrails (One-Page Handout, Draft v1)
 
 > Plain-language summary for residents and civic volunteers. Not an adopted plan, ordinance, or legal advice.
 
-## 1. What is the Festus + De Soto corridor?
+## 1. What is the Festus area corridor?
 
 - A string of small cities and towns along **I‑55** and **US‑67/MO‑21**:
   - Herculaneum, Pevely, Festus, Crystal City, **Hematite-area communities**, Olympian Village and De Soto.
@@ -37,7 +37,7 @@ Residents have said they want:
 
 ## 4. What this corridor strategy tries to do
 
-1. **Name the corridor clearly** so Festus, De Soto and neighbors see themselves as a shared region, not just exits.
+1. **Name the corridor clearly** so Festus and surrounding small cities and towns (including De Soto and nearby communities) see themselves as a shared region, not just exits.
 2. **Prioritize anchors that fit small-city life**:
    - Advanced manufacturing (like James Hardie and similar employers).
    - Health care, schools, and main-street businesses.
@@ -69,7 +69,7 @@ In short: **no large digital project moves forward in the corridor without an in
   - It shows how quickly digital infrastructure can appear near substations.
   - It shows the importance of **noise rules, traffic planning, water management and long‑term transparency**.
 
-The corridor strategy assumes other counties and cities may make different choices. Festus and De Soto can still **set a different standard** inside their limits.
+The corridor strategy assumes other counties and cities may make different choices. Festus and surrounding communities in this corridor can still **set a different standard** inside their limits.
 
 ## 7. What "success" could look like in 10–15 years
 
@@ -94,5 +94,5 @@ If "growth with guardrails" works, the corridor could have:
   - Use the corridor strategy and guardrail model as a starting point for ordinance language, RFQs/RFPs and negotiations.
   - Require any major digital infrastructure proposal to run through **transparent, public modeling** and **resident-facing explanations** before decisions.
 
-This corridor is already changing. The core choice is whether that change **happens to** Festus and De Soto, or **with** residents clearly in charge.
+This corridor is already changing. The core choice is whether that change **happens to** Festus and its surrounding communities, or **with** residents clearly in charge.
 

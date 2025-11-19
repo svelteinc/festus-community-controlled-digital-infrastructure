@@ -1,4 +1,4 @@
-# Festus + De Soto Corridor – Growth with Guardrails
+# Festus Area Corridor – Growth with Guardrails
 
 Deck Outline (Draft v1 for Mayor, Council, EDC)
 
@@ -8,7 +8,7 @@ Deck Outline (Draft v1 for Mayor, Council, EDC)
 
 ## Slide 1 – Title & purpose
 
-- **Title:** Festus + De Soto Corridor – Growth with Guardrails
+- **Title:** Festus Area Corridor – Growth with Guardrails
 - **Subtitle:** How we grow on our terms, not someone else's
 - **Purpose:**
   - Introduce the corridor as a shared region.
@@ -125,7 +125,7 @@ Deck Outline (Draft v1 for Mayor, Council, EDC)
 
 - Restate:
   - The corridor is already changing.
-  - Festus and De Soto can either **react** to outside agendas or **lead** with a clear playbook.
+  - Festus and its surrounding small cities and towns can either **react** to outside agendas or **lead** with a clear playbook.
 - Call to action:
   - For Council/PNZ: agree on next steps to codify guardrails.
   - For staff/EDC: use this framework in conversations with prospects.

@@ -12,6 +12,7 @@ Use it to capture:
 
 - `project_vision_v1.md` – overall CCDI story and goals.
 - `festus_council_briefing_v1.md` – shorter briefing for Mayor/Council.
-- `festus_desoto_corridor_strategy_v1.md` – Festus + De Soto + Hematite corridor concept and "growth with guardrails" strategy.
+- `festus_desoto_corridor_strategy_v1.md` – Festus Area Corridor concept (Festus and surrounding small cities and towns) and "growth with guardrails" strategy.
 - `festus_city_manager_implementation_roadmap_v1.md` – step-by-step roadmap for City Manager and senior staff.
 - `festus_desoto_corridor_pitch_deck_outline_v1.md` – slide outline for Mayor/EDC briefings.
+- `festus_corridor_state_edc_brief_v1.md` – two-page brief for state and regional economic development partners.

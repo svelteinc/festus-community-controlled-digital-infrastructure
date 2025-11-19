@@ -42,6 +42,7 @@ See `docs/README.md` for project-specific narrative and design documents.
   - `docs/vision/project_vision_v1.md`
   - `docs/vision/festus_council_briefing_v1.md`
   - `docs/vision/festus_desoto_corridor_strategy_v1.md`
+  - `docs/vision/festus_corridor_state_edc_brief_v1.md`
 
 - **Residents / civic volunteers:**
   - `docs/community_engagement/faq_v1.md`
@@ -54,6 +55,7 @@ See `docs/README.md` for project-specific narrative and design documents.
   - `docs/governance/festus_dc_zoning_model_v1.md`
   - `docs/governance/festus_dc_sample_ordinance_clauses_v1.md`
   - `docs/capital_stack/phase1_capital_stack_v1.md`
+  - `docs/capital_stack/festus_cfo_deal_evaluation_cheatsheet_v1.md`
   - `docs/rfp/operator_rfp_skeleton_v1.md`
   - `docs/tokenization/tokenized_community_bonds_v1.md`
 

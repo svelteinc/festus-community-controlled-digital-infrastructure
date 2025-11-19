@@ -1,4 +1,4 @@
-# Festus + De Soto Corridor – Growth with Guardrails (Draft v1)
+# Festus Area Corridor – Growth with Guardrails (Draft v1)
 
 > Concept note for discussion only. Not an adopted plan, ordinance, or legal advice.
 
@@ -31,7 +31,7 @@
 
 ## 2. Strategic thesis – what kind of growth, and on whose terms?
 
-> Festus + De Soto should grow as a **small-city advanced manufacturing and lifestyle corridor** with **limited, community-ruled digital infrastructure** – not as an uncontrolled hyperscale data center or speculative resort dumping ground.
+> Festus and its surrounding small cities and towns should grow as a **small-city advanced manufacturing and lifestyle corridor** with **limited, community-ruled digital infrastructure** – not as an uncontrolled hyperscale data center or speculative resort dumping ground.
 
 Four pillars:
 
@@ -46,7 +46,7 @@ Everything else – hyperscale DCs, opaque resorts, speculative mega-projects �
 
 ### 3.1 Guardrails first
 
-- Adopt aligned **digital infrastructure standards** in Festus and De Soto that:
+- Adopt aligned **digital infrastructure standards** in Festus and in surrounding corridor communities (including De Soto and other nearby small cities and towns) that:
   - Cap data center size by right (e.g., 3–5 MW per site; bigger requires a Civic Assembly vote and FCIIA-style approval).
   - Impose strict noise, water, lighting, and visual-buffer standards.
   - Require basic operator transparency (operator type, use, MW size); no “mystery boxes.”
@@ -62,7 +62,7 @@ Everything else – hyperscale DCs, opaque resorts, speculative mega-projects �
    - Use FCIIA as landlord, with covenants on noise, water, truck routing, transparency, and community payments.
 
 2. **US-67 / MO-110 flex/advanced manufacturing building**  
-   - Build a 20–40k sq ft flex/industrial building near the De Soto side to attract fabrication, components, prefab, or light advanced manufacturing.
+   - Build a 20–40k sq ft flex/industrial building near the US-67 / MO-21 side of the corridor (for example near De Soto) to attract fabrication, components, prefab, or light advanced manufacturing.
    - Use conservative incentives tied to job quality, local hiring, and training, not blank abatements.
 
 3. **Timber Creek area as a flexible tourism/lifestyle node**  
@@ -73,7 +73,7 @@ Everything else – hyperscale DCs, opaque resorts, speculative mega-projects �
      - Consider public or quasi-public control of key parcels via FCIIA or partners if realistic.
 
 4. **Main Street and neighborhood visible wins**  
-   - Use early community-fund dollars and small grants for 5–10 highly visible projects in Festus, Crystal City, De Soto, Hematite-area neighborhoods, and nearby small towns (crosswalks, park upgrades, trees, traffic calming, small façade grants).
+   - Use early community-fund dollars and small grants for 5–10 highly visible projects in Festus and surrounding small cities and towns in the corridor, including Crystal City, De Soto, Hematite-area neighborhoods, and nearby communities (crosswalks, park upgrades, trees, traffic calming, small façade grants).
 
 ## 4. Medium-term plays (3–8 years)
 
