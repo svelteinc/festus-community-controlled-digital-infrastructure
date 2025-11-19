@@ -63,7 +63,7 @@ In short: **no large digital project moves forward in the corridor without an in
 
 ## 6. How this relates to the Highway P bitcoin site
 
-- The **Highway P bitcoin mining facility near the Armory in Hematite** is a **separate private project**, approved through **Jefferson Countys** process.
+- The **Highway P bitcoin mining facility near the Armory in Hematite** is a **separate private project**, approved through **Jefferson County's** process.
 - It is **not part of the Festus CCDI project** and is **not controlled by FDIA/FCIC or the proposed city-wide civic authority and assembly**.
 - It is, however, a useful **lesson**:
   - It shows how quickly digital infrastructure can appear near substations.
