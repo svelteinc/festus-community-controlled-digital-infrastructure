@@ -87,7 +87,7 @@ Deck Outline (Draft v1 for Mayor, Council, EDC)
 - What we can learn:
   - How quickly digital infrastructure appears near substations.
   - Why **noise, traffic, and water standards** matter.
-  - Why we want a **different playbook** inside Festus/De Soto limits.
+  - Why we want a **different playbook** inside Festus and other small-city corridor communities than what we've seen at the Highway P site.
 
 ## Slide 10 – What success looks like in 10–15 years
 

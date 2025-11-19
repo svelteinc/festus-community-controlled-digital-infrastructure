@@ -15,4 +15,6 @@ Use it to capture:
 - `festus_desoto_corridor_strategy_v1.md` – Festus Area Corridor concept (Festus and surrounding small cities and towns) and "growth with guardrails" strategy.
 - `festus_city_manager_implementation_roadmap_v1.md` – step-by-step roadmap for City Manager and senior staff.
 - `festus_desoto_corridor_pitch_deck_outline_v1.md` – slide outline for Mayor/EDC briefings.
+- `festus_corridor_pitch_talking_script_v1.md` – short talking script and
+  speaking notes to accompany the corridor pitch deck.
 - `festus_corridor_state_edc_brief_v1.md` – two-page brief for state and regional economic development partners.
