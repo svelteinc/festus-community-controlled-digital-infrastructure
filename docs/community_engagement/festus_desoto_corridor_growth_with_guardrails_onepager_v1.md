@@ -33,7 +33,7 @@ Residents have said they want:
 - Using **strong rules and community-controlled entities** (like FDIA/FCIC and a city‑wide civic authority and assembly) to protect:
   - Noise, water, and traffic.
   - Floodplains, tree cover, and views.
-  - The city's general fund and long‑term flexibility.
+  - The city's general fund and long‑term flexibility.
 
 ## 4. What this corridor strategy tries to do
 
